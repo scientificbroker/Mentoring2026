@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mentoring2026.vercel.app/sitemap.xml
+Sitemap: https://mentoring-bhv2026.vercel.app/sitemap.xml
