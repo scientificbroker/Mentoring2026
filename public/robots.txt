@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://scientificbroker.github.io/Mentoring2026/sitemap.xml
+Sitemap: https://mentoring2026.vercel.app/sitemap.xml
