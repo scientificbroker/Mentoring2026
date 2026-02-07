@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://scientificbroker.github.io/Mentoring2026/sitemap.xml
